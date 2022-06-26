@@ -1,10 +1,10 @@
 # creative-programming-sanitize
 
-# volkno-bot
-Copyright (C) 2020-2021 **Anthony Sharonov & Creative Programming** <tushakasha@gmail.com>
+# creative-programming-sanitize
+Copyright (C) 2020-2021 **Anthony Sharonov & Creative Programming Club** <tushakasha@gmail.com>
 
-This file is part of the **volkno-bot** project.
+This file is part of the **Creative-programming-sanitize** project.
 
-The **volkno-bot** project can not be copied and/or distributed without the express
-permission of **Anthony Sharonov & Creative Programmingv** <tushakasha@gmail.com>.
+The **creative-programming-sanitize** project can not be copied and/or distributed without the express
+permission of **Anthony Sharonov & Creative Programming Club** <tushakasha@gmail.com>.
 
